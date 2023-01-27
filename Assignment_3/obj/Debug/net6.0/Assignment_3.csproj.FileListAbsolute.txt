@@ -1,0 +1,15 @@
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\bin\Debug\net6.0\Assignment_3.exe
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\bin\Debug\net6.0\Assignment_3.deps.json
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\bin\Debug\net6.0\Assignment_3.runtimeconfig.json
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\bin\Debug\net6.0\Assignment_3.dll
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\bin\Debug\net6.0\Assignment_3.pdb
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.csproj.AssemblyReference.cache
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfoInputs.cache
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfo.cs
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.csproj.CoreCompileInputs.cache
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.dll
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\refint\Assignment_3.dll
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.pdb
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\Assignment_3.genruntimeconfig.cache
+D:\MacEwan\Winter Term\C#\Assignment_3\Assignment_3\obj\Debug\net6.0\ref\Assignment_3.dll
